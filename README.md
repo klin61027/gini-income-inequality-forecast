@@ -148,5 +148,5 @@ gini-forecasting/
 
 ## Team
 
-**Kevin Lin (林敬智)** and **Bruce Chen** · Seattle University · Spring 2026
+**Kevin Lin (林敬智)** and **Bruce Chen** · Seattle University · Sep 2025- June 2026
 Advised by Dr. Henrich
